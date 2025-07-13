@@ -3379,6 +3379,8 @@ input, select, textarea {
 
 	#banner {
 		padding: 10em 0 4.75em 0 ;
+		/* background: linear-gradient(135deg, #a71d31 0%, #740c1d 50%, #4b0712 100%); */
+
 	}
 
 		#banner .vita{
@@ -3633,6 +3635,8 @@ input, select, textarea {
 		background-color: #2e3141;
 		margin: 6.5em 0;
 		position: relative;
+
+		
 	}
 
 		.wrapper:before, .wrapper:after {
@@ -3690,6 +3694,13 @@ input, select, textarea {
 			margin: 0 auto;
 			width: 55em;
 		}
+
+		/* JUST PUT THIS SECTION IN */
+
+		/* .wrapper.spotlight.style1 {
+			background: linear-gradient(135deg, #a71d31 0%, #740c1d 50%, #4b0712 100%);
+
+		} */
 
 		.wrapper.style2 {
 			background-color: #353849;
